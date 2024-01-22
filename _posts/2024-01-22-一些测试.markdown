@@ -6,4 +6,4 @@ categories: talk wander
  
 ---
 
-![img_tst](../img/fufu.jpg)
+![img_test](https://github.com/xiaofulenlong/xiaofulenlong.github.io/blob/e3d277e74d02fa4094cea44ebd662a3fc94b05f4/img/fufu.jpg)
