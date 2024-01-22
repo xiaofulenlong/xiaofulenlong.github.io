@@ -1,9 +1,0 @@
----
-layout: post
-title:  "图片和公式测试"
-date:   2024-01-22 12:28:21 +0800
-categories: talk wander
- 
----
-
-![img_test](https://github.com/xiaofulenlong/xiaofulenlong.github.io/blob/e3d277e74d02fa4094cea44ebd662a3fc94b05f4/img/fufu.jpg)
