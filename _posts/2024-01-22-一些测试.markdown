@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "图片和公式测试"
+date:   2024-01-22 12:28:21 +0800
+categories: talk wander
+ 
+---
+
+![img_tst](../img/fufu.jpg)
